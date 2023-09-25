@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">appLanzaDados</string>
+    <string name="inicio_de_sesi_n">Inicio de Sesión</string>
+    <string name="lanzar">Lanzar</string>
+</resources>
